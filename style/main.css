@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Poppins:wght@900&family=Roboto+Mono:wght@300&display=swap');
+@import url('personal.css');
+@import url('list.css'); 
+
+body {
+    font-family: 'Croiissant one', sans-serif;
+    font-size: 62.5%;
+
+    background-image: url(https://www.papeldeparede.etc.br/fotos/wp-content/uploads/papeldeparede-4K-de-c%C3%A9u-azul-de-nuvens.jpg);
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+
+

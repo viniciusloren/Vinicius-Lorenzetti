@@ -1,0 +1,17 @@
+.personal {
+    background-image: url(https://www.papeldeparede.etc.br/fotos/wp-content/uploads/papeldeparede-4K-de-c%C3%A9u-azul-de-nuvens.jpg);
+    background-size: contain;
+    background-repeat: repeat-x;
+}
+.personal h1 {
+      font-size: 2rem;
+      color: black;
+
+      border-width: 1px;
+      border-style: solid;
+      border-color: black;
+      background-color: crimson;
+      background-image: url(https://www.papeldeparede.etc.br/fotos/wp-content/uploads/papeldeparede-4K-de-c%C3%A9u-azul-de-nuvens.jpg);
+
+      
+}
